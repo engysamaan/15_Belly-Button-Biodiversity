@@ -1,6 +1,6 @@
 # 15_Belly Button Biodiversity
 
-build an interactive dashboard to explore the Belly Button Biodiversity DataSet.
+Build an interactive dashboard to explore the Belly Button Biodiversity DataSet.
 
 Step 1 - Plotly.js:
 
