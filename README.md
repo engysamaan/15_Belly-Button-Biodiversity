@@ -1,11 +1,9 @@
 # 15_Belly Button Biodiversity
 
 build an interactive dashboard to explore the Belly Button Biodiversity DataSet.
+
 Step 1 - Plotly.js
-
 Use Plotly.js to build interactive charts for your dashboard.
-
-
 
 Create a PIE chart that uses data from your samples route (/samples/<sample>) to display the top 10 samples.
 
